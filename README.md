@@ -11,7 +11,7 @@ samples, guidance on mobile development, and a full API reference.
 # Some Interpretation
 
 - This is a Simple App. In this app, I just design Scaffold with text message to Check the Internet ```Connectivity Status```via
-```Continuously-Checking``` and ```Not-Continuously-Checking``` and ````Socket-Method```.
+```Continuously-Checking``` and ```Not-Continuously-Checking``` and ```Socket-Method```.
 - Also Message will be display with ```connected-network-type``` means: Either it is connected to Mobile network or WiFi network.
 
 # Learning Concepts:
